@@ -53,7 +53,7 @@ I’m always exploring new tech, tools, and ideas. Got a cool project or an exci
 ## Connect with me:
 <div align="center">
     <a href="https://www.linkedin.com/in/abhishek-mishra-200020/" target="_blank"><img src="https://img.shields.io/badge/-abhishek%20Tmishra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:abhishekkumarmishra200020@gmail.com"><img src="https://img.shields.io/badge/-abhishekkumarmishra200020@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a target="_blank" href="mailto:abhishekkumarmishra200020@gmail.com"><img src="https://img.shields.io/badge/-abhishekkumarmishra200020-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://leetcode.com/u/karma200020/" target="_blank"><img src="https://img.shields.io/badge/-Abhishek%20Mishra-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
 </div>
 
