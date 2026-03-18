@@ -2,7 +2,7 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dnd2xiemFmeHBrbWprMm1ia3c1MmYyM2ZqbDZucjdyYWQ2dDhmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.webp" width="100%">
 
 ## About me
-👋 Hello! I'm currently a Software Developer at Tejas Networks based in the Gurgaon office.
+👋 Hello! I'm currently a Software Developer at Microsoft based in the Hyderabad IDC.
 <br>
 <br>
 💻 Experience:
